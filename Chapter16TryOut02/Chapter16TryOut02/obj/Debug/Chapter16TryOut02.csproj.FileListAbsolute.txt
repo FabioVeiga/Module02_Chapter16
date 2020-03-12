@@ -1,0 +1,5 @@
+E:\IBT\C# Windows Form\Chapter16TryOut02\Chapter16TryOut02\obj\Debug\Chapter16TryOut02.csprojAssemblyReference.cache
+E:\IBT\C# Windows Form\Chapter16TryOut02\Chapter16TryOut02\obj\Debug\MainWindow.g.cs
+E:\IBT\C# Windows Form\Chapter16TryOut02\Chapter16TryOut02\obj\Debug\App.g.cs
+E:\IBT\C# Windows Form\Chapter16TryOut02\Chapter16TryOut02\obj\Debug\Chapter16TryOut02_MarkupCompile.cache
+E:\IBT\C# Windows Form\Chapter16TryOut02\Chapter16TryOut02\obj\Debug\Chapter16TryOut02_MarkupCompile.lref
